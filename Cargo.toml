@@ -1,0 +1,9 @@
+[package]
+name = "upwards"
+version = "0.1.0"
+authors = ["haze <haze@ill.fi>"]
+edition = "2018"
+
+[dependencies]
+getset = "0.0.6"
+ggez = "0.4.4"
